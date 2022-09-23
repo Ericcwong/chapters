@@ -9,6 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@supabase/supabase-js": "^1.35.6",
     "mongoose": "^6.5.2",
     "next": "12.2.5",
     "react": "18.2.0",
