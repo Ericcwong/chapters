@@ -9,18 +9,25 @@
     "lint": "next lint"
   },
   "dependencies": {
+<<<<<<< HEAD
     "@supabase/supabase-js": "^1.35.6",
     "mongoose": "^6.5.2",
+=======
+>>>>>>> cb9fceadc9c8606ba31e35db393f2f00ddb7faec
     "next": "12.2.5",
+    "next-themes": "^0.2.0",
     "react": "18.2.0",
     "react-dom": "18.2.0"
   },
   "devDependencies": {
-    "@types/node": "18.7.2",
+    "@types/node": "18.7.7",
     "@types/react": "18.0.17",
     "@types/react-dom": "18.0.6",
-    "eslint": "8.21.0",
+    "autoprefixer": "^10.4.8",
+    "eslint": "8.22.0",
     "eslint-config-next": "12.2.5",
+    "postcss": "^8.4.16",
+    "tailwindcss": "^3.1.8",
     "typescript": "4.7.4"
   }
 }
