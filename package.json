@@ -9,13 +9,10 @@
     "lint": "next lint"
   },
   "dependencies": {
-<<<<<<< HEAD
     "@supabase/supabase-js": "^1.35.6",
     "mongoose": "^6.5.2",
-=======
->>>>>>> cb9fceadc9c8606ba31e35db393f2f00ddb7faec
     "next": "12.2.5",
-    "next-themes": "^0.2.0",
+    "next-themes": "^0.2.1",
     "react": "18.2.0",
     "react-dom": "18.2.0"
   },
